@@ -1,2 +1,5 @@
 # IPM
-Information protection methods
+### Information protection methods
+
+__Student__: Nikitsinskaya Hanna Sergeevna
+__Group__: 653501
